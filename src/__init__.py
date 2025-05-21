@@ -1,2 +1,0 @@
-from src.my_decision_tree import MyDecisionTree
-from src.my_logistic_regression import MyLogisticRegression
