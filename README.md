@@ -6,7 +6,9 @@ The raw training data (~250 MB CSV) is hosted on Google Drive
 to keep the Git repository lightweight:
 https://drive.google.com/drive/folders/1uxjxqGa-SC-W5NN_asjqQOB3LjvT4jmX?usp=drive_link
 
-One or two paragraphs summarizing the goal (binary high-demand prediction), data (14 days of POS + weather + promos), and approach (custom Decision Tree & Logistic Regression).
+The Goal: binary high-demand prediction, 
+Data: 14 days of POS + weather + promos
+Approach: custom Decision Tree & Logistic Regression.
 
 Repository Structure:
 High-level tree of folders/files, e.g.
